@@ -1,4 +1,4 @@
-# Social Media Agent 🤖
+# Social Media Agent(Autobuzz AI) 🤖
 
 An intelligent agent that automates content curation and social media posting by processing various online sources and generating platform-specific content.This project is a Social Media Content Automation Agent that streamlines content creation and publishing across multiple platforms. The agent takes input links from various sources such as blogs, tweets, GitHub repositories, and more, scrapes relevant data, generates content reports, and creates platform-specific posts for social media.
 
