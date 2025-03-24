@@ -18,17 +18,26 @@ The source code is not publicly available but can be demonstrated upon request.
 
 ## 🌟 Features
 
+## 🌟 Features
+
 - **Multi-Source Content Aggregation**
   - Scrapes content from diverse sources:
     - Blog posts
     - Tweets/X posts
     - GitHub repositories
     - Other online content
+  - **New:** Parallel processing of multiple links
+  - **New:** Intelligent content aggregation from related sources
 
 - **Smart Content Processing**
   - Analyzes and synthesizes information from multiple sources
   - Generates comprehensive content reports
   - Creates platform-optimized posts automatically
+  - **New:** Automated image extraction and processing
+    - Screenshots of linked content
+    - Image extraction from source documents
+    - AI-powered image ranking for relevance
+    - Custom image upload support
 
 - **Platform-Specific Optimization**
   - Automatically adapts content for different platforms:
@@ -41,6 +50,10 @@ The source code is not publicly available but can be demonstrated upon request.
   - Post revision capabilities
   - Content adjustment options
   - Approval workflow
+  - **New:** Image selection and customization
+    - Choose from extracted images
+    - Upload custom images
+    - Modify image rankings
 
 - **Automated Scheduling**
   - Smart scheduling system
@@ -53,9 +66,27 @@ The source code is not publicly available but can be demonstrated upon request.
   - Multi-platform support
   - Authentication handling
 
-## 🔄 Workflow
+## 🔄 Workflow Overview
 
-![Social Media Agent Architecture](./Architecture.png)
+<div align="center">
+  <img src="./Architecture_1.png" alt="Social Media Agent Architecture" width="85%">
+</div>
+
+<details>
+<summary><b>📊 Detailed Workflow Diagrams</b></summary>
+
+<div align="center">
+  <h4>Input & Processing Flow</h4>
+  <img src="./part-1.png" alt="Input & Processing Flow" width="80%">
+  
+  <h4>Output & Distribution Flow</h4>
+  <img src="./part-2.png" alt="Output & Distribution Flow" width="80%">
+</div>
+</details>
+
+---
+
+### Process Steps:
 
 1. **Input Processing**
    - User provides content source links
