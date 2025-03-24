@@ -18,8 +18,6 @@ The source code is not publicly available but can be demonstrated upon request.
 
 ## 🌟 Features
 
-## 🌟 Features
-
 - **Multi-Source Content Aggregation**
   - Scrapes content from diverse sources:
     - Blog posts
