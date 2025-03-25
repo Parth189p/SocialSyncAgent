@@ -115,7 +115,7 @@ The source code is not publicly available but can be demonstrated upon request.
 
 The system utilizes LangGraph Studio for workflow orchestration and AgentBox for the user interface, creating a seamless and efficient content management pipeline.
 
-![Adentbox UI](./Autobuzz.gif)
+![Adentbox UI](./Autobuzz_01.gif)
 
 ## 🔮 Future Enhancements
 
